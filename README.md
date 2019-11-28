@@ -8,6 +8,6 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 
 The entire training process is based on the link below
-	https://blog.csdn.net/weixin_42731241/article/details/81352013
-	https://blog.csdn.net/lixiaoyu101/article/details/86537128
-	https://zhuanlan.zhihu.com/p/88721606
+	<br/>https://blog.csdn.net/weixin_42731241/article/details/81352013
+	<br/>https://blog.csdn.net/lixiaoyu101/article/details/86537128
+	<br/>https://zhuanlan.zhihu.com/p/88721606
